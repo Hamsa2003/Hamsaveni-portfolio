@@ -1,6 +1,6 @@
 # Hi there, I'm Hamsaveni P! 👋
 
-### Aspiring Data Analyst | Power BI Developer | Computer Science Graduate
+### Data Analyst | Power BI Developer | Computer Science Graduate
 
 Welcome to my GitHub profile! I'm a Computer Science and Engineering graduate passionate about **Data Analytics, Business Intelligence, Python, SQL, and Data Visualization**.
 
